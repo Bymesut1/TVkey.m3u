@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0,TR: TRT 1 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts
+#EXTINF:0,TR: ATV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=217&extension=ts
+#EXTINF:0,TR: STAR TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=224&extension=ts
+#EXTINF:0,TR: SHOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=223&extension=ts
+#EXTINF:0,TR: KANAL D HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=225&extension=ts
+#EXTINF:0,TR: FOX/NOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=218&extension=ts
+#EXTINF:0,TR: TV 8 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=221&extension=ts
+#EXTINF:0,TR: TV 8 INT
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=242&extension=ts
+#EXTINF:0,TR: TV 8.5 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=212&extension=ts
+#EXTINF:0,TR: BEYAZ TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=219&extension=ts
+#EXTINF:0,TR: TEVE 2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=226&extension=ts
+#EXTINF:0,TR: A2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=216&extension=ts
+#EXTINF:0,TR: KANAL 7 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=220&extension=ts
+#EXTINF:0,TR: KANAL 7 AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=70887&extension=ts
+#EXTINF:0,TR: TGRT EU
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110477&extension=ts
+#EXTINF:0,TR: SHOW MAX
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=239&extension=ts
+#EXTINF:0,TR: SHOW TURK
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=209141&extension=ts
+#EXTINF:0,TR: ATV AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=240&extension=ts
+#EXTINF:0,TR: EURO STAR
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=241&extension=ts
+#EXTINF:0,TR: EURO D
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=213&extension=ts
